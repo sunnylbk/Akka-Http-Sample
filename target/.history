@@ -1,0 +1,15 @@
+gen-idea
+reload
+gen-idea
+reload
+gen-idea
+reload
+gen-idea
+compile
+reload
+gen-idea
+reload
+compile
+run
+reload
+run
