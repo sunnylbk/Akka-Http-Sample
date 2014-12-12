@@ -6,7 +6,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for akka-http#akka-http$sources_javadoc_2.11;1.0 [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving com.typesafe#config;1.2.1 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1fdfd096[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1087c705[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe#config;1.2.1[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: com.typesafe#config;1.2.1[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe#config;1.2.1 in sbt-chain[0m
@@ -15,7 +15,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-stream-experimental_2.11;1.0-M1 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving com.typesafe.akka#akka-stream-experimental_2.11;1.0-M1 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d58d77a[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1844db82[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe.akka#akka-stream-experimental_2.11;1.0-M1[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: com.typesafe.akka#akka-stream-experimental_2.11;1.0-M1[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-stream-experimental_2.11;1.0-M1 in sbt-chain[0m
@@ -24,7 +24,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-stream-experimental_2.11;1.0-M1 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.11.4 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c6a3f5e[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@32b157e[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.4[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: org.scala-lang#scala-library;2.11.4[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.11.4 in sbt-chain[0m
@@ -34,7 +34,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.7 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving com.typesafe.akka#akka-actor_2.11;2.3.7 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@47a25543[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1906bca0[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.11;2.3.7[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: com.typesafe.akka#akka-actor_2.11;2.3.7[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-actor_2.11;2.3.7 in sbt-chain[0m
@@ -43,7 +43,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.7 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-persistence-experimental_2.11;2.3.7 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving com.typesafe.akka#akka-persistence-experimental_2.11;2.3.7 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d15e3d0[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3bf7c54e[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe.akka#akka-persistence-experimental_2.11;2.3.7[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: com.typesafe.akka#akka-persistence-experimental_2.11;2.3.7[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-persistence-experimental_2.11;2.3.7 in sbt-chain[0m
@@ -52,7 +52,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-persistence-experimental_2.11;2.3.7 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->org.iq80.leveldb#leveldb;0.5 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.iq80.leveldb#leveldb;0.5 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@215197a3[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f5f8d0e[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.iq80.leveldb#leveldb;0.5[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: org.iq80.leveldb#leveldb;0.5[0m
 [0m[[0mdebug[0m] [0m	found org.iq80.leveldb#leveldb;0.5 in sbt-chain[0m
@@ -61,7 +61,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->org.iq80.leveldb#leveldb;0.5 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->org.iq80.leveldb#leveldb-api;0.5 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.iq80.leveldb#leveldb-api;0.5 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53575a8b[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@32c576e7[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.iq80.leveldb#leveldb-api;0.5[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: org.iq80.leveldb#leveldb-api;0.5[0m
 [0m[[0mdebug[0m] [0m	found org.iq80.leveldb#leveldb-api;0.5 in sbt-chain[0m
@@ -70,7 +70,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->org.iq80.leveldb#leveldb-api;0.5 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.google.guava#guava;12.0 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving com.google.guava#guava;12.0 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c7a7ca3[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a40d3c1[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.google.guava#guava;12.0[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: com.google.guava#guava;12.0[0m
 [0m[[0mdebug[0m] [0m	found com.google.guava#guava;12.0 in sbt-chain[0m
@@ -79,7 +79,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.google.guava#guava;12.0 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.7 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.fusesource.leveldbjni#leveldbjni-all;1.7 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@205ac0fc[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26ceee9[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.fusesource.leveldbjni#leveldbjni-all;1.7[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: org.fusesource.leveldbjni#leveldbjni-all;1.7[0m
 [0m[[0mdebug[0m] [0m	found org.fusesource.leveldbjni#leveldbjni-all;1.7 in sbt-chain[0m
@@ -88,7 +88,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.7 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->org.fusesource.leveldbjni#leveldbjni;1.7 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.fusesource.leveldbjni#leveldbjni;1.7 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6bf3b514[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2084136f[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.fusesource.leveldbjni#leveldbjni;1.7[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: org.fusesource.leveldbjni#leveldbjni;1.7[0m
 [0m[[0mdebug[0m] [0m	found org.fusesource.leveldbjni#leveldbjni;1.7 in sbt-chain[0m
@@ -97,7 +97,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->org.fusesource.leveldbjni#leveldbjni;1.7 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->org.fusesource.hawtjni#hawtjni-runtime;1.8 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.fusesource.hawtjni#hawtjni-runtime;1.8 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2fabcf63[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ceb8c4[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.fusesource.hawtjni#hawtjni-runtime;1.8[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: org.fusesource.hawtjni#hawtjni-runtime;1.8[0m
 [0m[[0mdebug[0m] [0m	found org.fusesource.hawtjni#hawtjni-runtime;1.8 in sbt-chain[0m
@@ -106,7 +106,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->org.fusesource.hawtjni#hawtjni-runtime;1.8 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving com.google.protobuf#protobuf-java;2.5.0 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e8e866b[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40fcc8e3[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.google.protobuf#protobuf-java;2.5.0[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: com.google.protobuf#protobuf-java;2.5.0[0m
 [0m[[0mdebug[0m] [0m	found com.google.protobuf#protobuf-java;2.5.0 in sbt-chain[0m
@@ -115,7 +115,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;1.0.0.M1 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.reactivestreams#reactive-streams;1.0.0.M1 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6408fb95[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56458931[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.reactivestreams#reactive-streams;1.0.0.M1[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: org.reactivestreams#reactive-streams;1.0.0.M1[0m
 [0m[[0mdebug[0m] [0m	found org.reactivestreams#reactive-streams;1.0.0.M1 in sbt-chain[0m
@@ -124,7 +124,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;1.0.0.M1 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-http-core-experimental_2.11;1.0-M1 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving com.typesafe.akka#akka-http-core-experimental_2.11;1.0-M1 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60e0ba4c[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8698f14[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe.akka#akka-http-core-experimental_2.11;1.0-M1[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: com.typesafe.akka#akka-http-core-experimental_2.11;1.0-M1[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-http-core-experimental_2.11;1.0-M1 in sbt-chain[0m
@@ -133,7 +133,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-http-core-experimental_2.11;1.0-M1 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing-experimental_2.11;1.0-M1 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving com.typesafe.akka#akka-parsing-experimental_2.11;1.0-M1 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2df2087b[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45835e16[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe.akka#akka-parsing-experimental_2.11;1.0-M1[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: com.typesafe.akka#akka-parsing-experimental_2.11;1.0-M1[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-parsing-experimental_2.11;1.0-M1 in sbt-chain[0m
@@ -142,7 +142,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing-experimental_2.11;1.0-M1 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.4 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-reflect;2.11.4 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ef6738d[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72589055[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.4[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: org.scala-lang#scala-reflect;2.11.4[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-reflect;2.11.4 in sbt-chain[0m
@@ -152,7 +152,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.4 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-http-experimental_2.11;1.0-M1 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving com.typesafe.akka#akka-http-experimental_2.11;1.0-M1 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67e17d6e[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e462d15[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe.akka#akka-http-experimental_2.11;1.0-M1[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: com.typesafe.akka#akka-http-experimental_2.11;1.0-M1[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-http-experimental_2.11;1.0-M1 in sbt-chain[0m
@@ -161,7 +161,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-http-experimental_2.11;1.0-M1 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-http-xml-experimental_2.11;1.0-M1 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving com.typesafe.akka#akka-http-xml-experimental_2.11;1.0-M1 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5563284[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38a57e6f[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe.akka#akka-http-xml-experimental_2.11;1.0-M1[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: com.typesafe.akka#akka-http-xml-experimental_2.11;1.0-M1[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-http-xml-experimental_2.11;1.0-M1 in sbt-chain[0m
@@ -170,7 +170,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-http-xml-experimental_2.11;1.0-M1 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang.modules#scala-xml_2.11;1.0.1 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@566b9892[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a308c04[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.1[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: org.scala-lang.modules#scala-xml_2.11;1.0.1[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang.modules#scala-xml_2.11;1.0.1 in sbt-chain[0m
@@ -1335,7 +1335,8 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->jline#jline;2.11 [scala-tool->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->jline#jline;2.11 [scala-tool->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies akka-http#akka-http$sources_javadoc_2.11;1.0->jline#jline;2.11 [scala-tool->master][0m
-[0m[[0mdebug[0m] [0m	resolved ivy file produced in /Users/blingannagari/IdeaProjects/akka/http/target/resolution-cache/akka-http/akka-http$sources_javadoc_2.11/1.0/resolved.xml.xml[0m
+[0m[[0mdebug[0m] [0mcircular dependency found: org.scala-lang#scala-compiler;2.11.1->org.scala-lang.modules#scala-xml_2.11;1.0.2->...[0m
+[0m[[0mdebug[0m] [0m	resolved ivy file produced in /Users/blingannagari/IdeaProjects/akka/Akka-Http/target/resolution-cache/akka-http/akka-http$sources_javadoc_2.11/1.0/resolved.xml.xml[0m
 [0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe#config;1.2.1!config.jar(doc)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe#config;1.2.1!config.jar[0m
@@ -1388,21 +1389,9 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-http-experimental_2.11;1.0-M1!akka-http-experimental_2.11.jar(doc)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-http-experimental_2.11;1.0-M1!akka-http-experimental_2.11.jar(src)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-http-experimental_2.11;1.0-M1!akka-http-experimental_2.11.jar[0m
-[0m[[0mdebug[0m] [0m		tried /Users/blingannagari/.ivy2/local/com.typesafe.akka/akka-http-xml-experimental_2.11/1.0-M1/srcs/akka-http-xml-experimental_2.11-sources.jar[0m
-[0m[[0mdebug[0m] [0m		tried /Users/blingannagari/.ivy2/local/com.typesafe.akka/akka-http-xml-experimental_2.11/1.0-M1/docs/akka-http-xml-experimental_2.11-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-http-xml-experimental_2.11;1.0-M1!akka-http-xml-experimental_2.11.jar(src)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-http-xml-experimental_2.11;1.0-M1!akka-http-xml-experimental_2.11.jar(doc)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-http-xml-experimental_2.11;1.0-M1!akka-http-xml-experimental_2.11.jar[0m
-[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-xml-experimental_2.11/1.0-M1/akka-http-xml-experimental_2.11-1.0-M1-sources.jar[0m
-[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-xml-experimental_2.11/1.0-M1/akka-http-xml-experimental_2.11-1.0-M1-sources.jar ...[0m
-[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-xml-experimental_2.11/1.0-M1/akka-http-xml-experimental_2.11-1.0-M1-sources.jar[0m
-[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-xml-experimental_2.11/1.0-M1/akka-http-xml-experimental_2.11-1.0-M1-sources.jar.sha1[0m
-[0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-xml-experimental_2.11/1.0-M1/akka-http-xml-experimental_2.11-1.0-M1-sources.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-http-xml-experimental_2.11;1.0-M1!akka-http-xml-experimental_2.11.jar(src) (2574ms)[0m
-[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-xml-experimental_2.11/1.0-M1/akka-http-xml-experimental_2.11-1.0-M1-javadoc.jar[0m
-[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-xml-experimental_2.11/1.0-M1/akka-http-xml-experimental_2.11-1.0-M1-javadoc.jar ...[0m
-[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-xml-experimental_2.11/1.0-M1/akka-http-xml-experimental_2.11-1.0-M1-javadoc.jar[0m
-[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-xml-experimental_2.11/1.0-M1/akka-http-xml-experimental_2.11-1.0-M1-javadoc.jar.sha1[0m
-[0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-xml-experimental_2.11/1.0-M1/akka-http-xml-experimental_2.11-1.0-M1-javadoc.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-http-xml-experimental_2.11;1.0-M1!akka-http-xml-experimental_2.11.jar(doc) (3937ms)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(doc)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(src)[0m
@@ -1418,18 +1407,18 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1!scala-parser-combinators_2.11.jar(src)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.11!jline.jar(src)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.11!jline.jar(doc)[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 216ms :: artifacts dl 6540ms[0m
-[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 compile produced in /Users/blingannagari/IdeaProjects/akka/http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 runtime produced in /Users/blingannagari/IdeaProjects/akka/http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 test produced in /Users/blingannagari/IdeaProjects/akka/http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 provided produced in /Users/blingannagari/IdeaProjects/akka/http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 optional produced in /Users/blingannagari/IdeaProjects/akka/http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 compile-internal produced in /Users/blingannagari/IdeaProjects/akka/http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 runtime-internal produced in /Users/blingannagari/IdeaProjects/akka/http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 test-internal produced in /Users/blingannagari/IdeaProjects/akka/http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 plugin produced in /Users/blingannagari/IdeaProjects/akka/http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 sources produced in /Users/blingannagari/IdeaProjects/akka/http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 docs produced in /Users/blingannagari/IdeaProjects/akka/http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 pom produced in /Users/blingannagari/IdeaProjects/akka/http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 scala-tool produced in /Users/blingannagari/IdeaProjects/akka/http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (216ms resolve - 6540ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 297ms :: artifacts dl 45ms[0m
+[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 compile produced in /Users/blingannagari/IdeaProjects/akka/Akka-Http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 runtime produced in /Users/blingannagari/IdeaProjects/akka/Akka-Http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 test produced in /Users/blingannagari/IdeaProjects/akka/Akka-Http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 provided produced in /Users/blingannagari/IdeaProjects/akka/Akka-Http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 optional produced in /Users/blingannagari/IdeaProjects/akka/Akka-Http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 compile-internal produced in /Users/blingannagari/IdeaProjects/akka/Akka-Http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 runtime-internal produced in /Users/blingannagari/IdeaProjects/akka/Akka-Http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 test-internal produced in /Users/blingannagari/IdeaProjects/akka/Akka-Http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 plugin produced in /Users/blingannagari/IdeaProjects/akka/Akka-Http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 sources produced in /Users/blingannagari/IdeaProjects/akka/Akka-Http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 docs produced in /Users/blingannagari/IdeaProjects/akka/Akka-Http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 pom produced in /Users/blingannagari/IdeaProjects/akka/Akka-Http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for akka-http#akka-http$sources_javadoc_2.11;1.0 scala-tool produced in /Users/blingannagari/IdeaProjects/akka/Akka-Http/target/resolution-cache/reports/akka-http-akka-http$sources_javadoc_2.11-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (297ms resolve - 45ms download)[0m

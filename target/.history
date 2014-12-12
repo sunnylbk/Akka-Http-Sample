@@ -13,3 +13,7 @@ compile
 run
 reload
 run
+clean
+gen-idea
+git status
+compile

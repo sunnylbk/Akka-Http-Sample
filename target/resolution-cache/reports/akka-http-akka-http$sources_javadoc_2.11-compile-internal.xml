@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="compile-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20141208115155"/>
+		date="20141212172244"/>
 	<dependencies>
 		<module organisation="com.typesafe.akka" name="akka-http-xml-experimental_2.11">
 			<revision name="1.0-M1" status="release" pubdate="20141203213110" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://akka.io/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="17">
@@ -15,10 +15,10 @@
 				<metadata-artifact status="no" details="" size="2879" time="0" location="/Users/blingannagari/.ivy2/cache/com.typesafe.akka/akka-http-xml-experimental_2.11/ivy-1.0-M1.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-xml-experimental_2.11/1.0-M1/akka-http-xml-experimental_2.11-1.0-M1.pom"/>
 				<caller organisation="akka-http" name="akka-http$sources_javadoc_2.11" conf="compile-internal, compile, provided, optional" rev="1.0-M1" rev-constraint-default="1.0-M1" rev-constraint-dynamic="1.0-M1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="akka-http-xml-experimental_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="1703" time="2574" location="/Users/blingannagari/.ivy2/cache/com.typesafe.akka/akka-http-xml-experimental_2.11/srcs/akka-http-xml-experimental_2.11-1.0-M1-sources.jar">
+					<artifact name="akka-http-xml-experimental_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1703" time="0" location="/Users/blingannagari/.ivy2/cache/com.typesafe.akka/akka-http-xml-experimental_2.11/srcs/akka-http-xml-experimental_2.11-1.0-M1-sources.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-xml-experimental_2.11/1.0-M1/akka-http-xml-experimental_2.11-1.0-M1-sources.jar"/>
 					</artifact>
-					<artifact name="akka-http-xml-experimental_2.11" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="357085" time="3937" location="/Users/blingannagari/.ivy2/cache/com.typesafe.akka/akka-http-xml-experimental_2.11/docs/akka-http-xml-experimental_2.11-1.0-M1-javadoc.jar">
+					<artifact name="akka-http-xml-experimental_2.11" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="357085" time="0" location="/Users/blingannagari/.ivy2/cache/com.typesafe.akka/akka-http-xml-experimental_2.11/docs/akka-http-xml-experimental_2.11-1.0-M1-javadoc.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-xml-experimental_2.11/1.0-M1/akka-http-xml-experimental_2.11-1.0-M1-javadoc.jar"/>
 					</artifact>
 					<artifact name="akka-http-xml-experimental_2.11" type="jar" ext="jar" status="no" details="" size="9438" time="0" location="/Users/blingannagari/.ivy2/cache/com.typesafe.akka/akka-http-xml-experimental_2.11/jars/akka-http-xml-experimental_2.11-1.0-M1.jar">
