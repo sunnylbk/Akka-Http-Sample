@@ -17,3 +17,12 @@ clean
 gen-idea
 git status
 compile
+run
+2
+run
+gen
+gen-idea
+reload
+gen-idea
+compile
+run
