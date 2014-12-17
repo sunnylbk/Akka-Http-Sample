@@ -17,3 +17,5 @@ libraryDependencies += "com.typesafe.akka" %% "akka-http-xml-experimental" % "1.
 libraryDependencies += "org.json4s" %% "json4s-jackson" % "3.2.11"
 
 libraryDependencies += "com.scalarx" %% "scalarx" % "0.2.6"
+
+libraryDependencies += "org.slf4j" % "slf4j-log4j12" % "1.7.7"

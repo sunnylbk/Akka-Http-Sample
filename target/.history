@@ -26,3 +26,7 @@ reload
 gen-idea
 compile
 run
+compile
+gen-idea
+compile
+run
